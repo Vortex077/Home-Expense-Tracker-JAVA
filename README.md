@@ -43,5 +43,7 @@ DAO–DTO Pattern
 👨‍💻 Author
 
 Avighyat Srivastav
+
 GitHub: https://github.com/Vortex077
+
 LinkedIn: www.linkedin.com/in/avighyat-sri
